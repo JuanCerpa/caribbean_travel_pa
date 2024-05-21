@@ -1,0 +1,5 @@
+NOMBRE: motoagua
+TIPO: alquiler
+CODIGO: 369
+PRECIO: $65000
+CANTIDAD: 5

@@ -1,0 +1,5 @@
+NOMBRE: sillas
+TIPO: alquiler
+CODIGO: 1234
+PRECIO: $25000
+CANTIDAD: 4
